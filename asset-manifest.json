@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yeasin72.github.io/csb-qehbnz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yeasin72.github.io/csb-qehbnz/static/js/main.c1507fab.chunk.js",
+    "main.js.map": "https://yeasin72.github.io/csb-qehbnz/static/js/main.c1507fab.chunk.js.map",
+    "runtime-main.js": "https://yeasin72.github.io/csb-qehbnz/static/js/runtime-main.99b5f341.js",
+    "runtime-main.js.map": "https://yeasin72.github.io/csb-qehbnz/static/js/runtime-main.99b5f341.js.map",
+    "static/js/2.c13dfc6f.chunk.js": "https://yeasin72.github.io/csb-qehbnz/static/js/2.c13dfc6f.chunk.js",
+    "static/js/2.c13dfc6f.chunk.js.map": "https://yeasin72.github.io/csb-qehbnz/static/js/2.c13dfc6f.chunk.js.map",
+    "index.html": "https://yeasin72.github.io/csb-qehbnz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yeasin72.github.io/csb-qehbnz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c13dfc6f.chunk.js.LICENSE.txt": "https://yeasin72.github.io/csb-qehbnz/static/js/2.c13dfc6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b5f341.js",
+    "static/js/2.c13dfc6f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1507fab.chunk.js"
+  ]
+}
